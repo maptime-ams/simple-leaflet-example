@@ -15,4 +15,4 @@ More information about Leaflet:
 
 ## Use your Mapbox Studio map
 
-If you've created a map with Mapbox Studio, you can use `mapbox.html` instead, and replace the `mapId` and `accessToken` variables with your own.
+If you've created a map with Mapbox Studio, you can use [`mapbox.html`](mapbox.html) instead, and replace the `mapId` and `accessToken` variables with your own.
