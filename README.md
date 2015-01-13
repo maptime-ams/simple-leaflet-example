@@ -1,6 +1,6 @@
 # Simple Leaflet Example
 
-This is a very, very simple Leaflet Example, for Maptime Amsterdam.
+This is a very, very simple Leaflet Example, for [Maptime Amsterdam](http://maptime-ams.github.io/).
 
 http://maptime-ams.github.io/simple-leaflet-example
 
